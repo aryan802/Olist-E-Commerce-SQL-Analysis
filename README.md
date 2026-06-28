@@ -469,6 +469,7 @@ Potential extensions:
 - SQL
 - Git
 - GitHub
+- Power BI
 
 ---
 
