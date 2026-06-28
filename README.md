@@ -17,6 +17,20 @@ The objective was to simulate a real-world data analyst workflow by:
 The project focuses on understanding marketplace growth, customer behavior, revenue drivers, seller performance, payment preferences, and customer satisfaction.
 
 ---
+## Dashboards
+
+### Executive Overview
+![Executive Overview Dashboard](Images/Executive_overview_dashboard.png)
+1) Revenue & Customer Performance: The business generated R$13.59M in revenue from 99K orders and 96K unique customers, indicating that most customers placed only one order on average. Average order value stands at R$160.99.
+2) Sales Trends & Categories: Monthly revenue shows strong growth through 2017, peaking around R$1M/month in 2018 before a sharp decline in the final month (likely due to incomplete data). Health & Beauty and Watches & Gifts are the highest revenue-generating product categories.
+3) Regional & Payment Insights: Revenue is concentrated in Brazil's southeastern states, particularly São Paulo. Credit cards account for over 78% of revenue, making them the dominant payment method, while boleto contributes around 18%.
+
+### Revenue Analysis
+![Revenue Analysis Dashboard](Images/Revenue_analysis_dashboard.png)
+1) Revenue Growth: Total revenue reached R$13.59M, with an impressive 205.33% year-over-year growth, and an average monthly revenue of R$566K, reflecting rapid business expansion.
+2) Time-Based Performance: Revenue and monthly orders consistently increased throughout 2017 and early 2018, while the running revenue chart shows cumulative earnings accelerating as order volumes grew.
+3) Year & Quarter Analysis: 2018 outperformed previous years in both monthly and quarterly revenue, with the strongest performance occurring during the first half of the year, indicating sustained growth before the final month's drop (likely due to partial-period data).
+---
 
 ## Dataset Source
 
