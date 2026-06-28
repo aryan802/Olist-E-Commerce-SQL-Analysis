@@ -42,7 +42,7 @@ The analysis is based on the Olist Brazilian E-Commerce Dataset, which contains 
 
 ### Entity Relationship Diagram (ERD)
 
-![Olist Dataset Schema](Data/Images/olist_schema.png)
+![Olist Dataset Schema](Images/olist_schema.png)
 
 ### Relationship Overview
 
